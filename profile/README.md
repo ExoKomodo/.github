@@ -12,6 +12,7 @@ My main thing is this [De-Googling Startup](https://github.com/autobutler-org/au
   - [C++](https://github.com/exokomodo/template-cpp)
   - [Golang](https://github.com/exokomodo/template-golang)
   - [Python](https://github.com/exokomodo/template-python)
+  - [TypeScript](https://github.com/exokomodo/template-typescript)
 
 ## What else I wish I was working on...
 
